@@ -1,0 +1,37 @@
+# C/C++ / Fortran build artifacts
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.out
+*.mod
+*.a
+*.lib
+*.log
+
+# build folders
+*/build/
+
+
+# IntelliJ / VSCode / PyCharm settings
+.idea/
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Data files (optional: ignore large raw datasets)
+*.csv
+*.tsv
+*.h5
+*.npz
+
+# oneAPI / HPC-specific
+*.i386
+*.x64
+*.dpcpp
+*.dylib
