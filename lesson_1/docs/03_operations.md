@@ -85,6 +85,8 @@ Logical operations are applied to boolean values:
 | OR        | `.OR.`         | `.FALSE. .OR. .TRUE.` |
 | NOT       | `.NOT.`        | `.NOT. b`             |
 
+![img.png](images/img_03_logical_ops.png)
+
 ```fortran
 PROGRAM logical_fortran
 LOGICAL :: a, b, result

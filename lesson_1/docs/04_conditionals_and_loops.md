@@ -85,6 +85,8 @@ INTEGER :: day
 END PROGRAM select_case_example
 ```
 
+![img.png](images/img_02_case.png)
+
 ## 2. Loops
 
 Loops allow repeated execution of code blocks.
